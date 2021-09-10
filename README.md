@@ -24,7 +24,7 @@ When I complete the analysis, I find results for successful, failed, and cancele
 ![Outcomes Based on Goals](https://user-images.githubusercontent.com/85411967/132790342-8a1a7221-a23f-4cd1-a200-f74687b9097b.png)
 
 
-# Challenges and Difficulties Encountered
+# Challenges and Difficulties
 Most challenges of Kickstarter sheet is a COUNTIFS statement. Filtering the data by plays, it would be automatically becoming a criteria for the chart. Which is this way I guaranteed that I will only receive the play campaigns conclusion.
 
 # Results
