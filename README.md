@@ -46,6 +46,7 @@ So far, play campaigns with higher goals tend to have a greater percent chance o
 
 # Outcomes Based on Goals Explanation
 The final step is Outcomes Based on Goals, the data is complete for each campaign that is inputted in our spreadsheet, we may have missing data for campaigns that were never recorded. For more results and analysis we will need more data to get new results.
+
 I hope you enjoyed to complete kickstarter analysis with me 😊
 
 
