@@ -14,9 +14,6 @@ For the Outcomes Based on Launch Date, I created a pivot table that filtered the
 # Analysis of Outcomes Based on Goals
 To analyze the Outcomes Based on Goals, I created a table that retrieved the total number of campaigns based off of certain criteria. In order to retrieve the correct count, the COUNTIFS statement was used. Within this formula, I set multiple criteria, including a range for the desired campaign goal, the specific category, and the outcomes of these campaigns. In this case, we wanted to look at the subcategory, plays.
 
-
-# Play Outcomes Table
-
 # Challenges and Difficulties Encountered
 One of the challenges that I encountered was forgetting to include a criteria within the COUNTIFS statement. Originally, I thought that filtering the data by plays would automatically become a criteria for the chart. However, this was not the case. Instead of filtering from the Kickstarter sheet, I had to include it as a criterion within the COUNTIFS statement. This guaranteed that I would retrieved only the play campaigns.
 
