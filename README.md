@@ -34,7 +34,7 @@ From the line chart, we can see that the best month to start a theater campaign 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85411967/132782481-7fd6a84d-611f-477c-af0a-2632d57b96bb.png)
 
 
-# Outcomes Based on Goals Explanation
+# Outcomes Based on Launch Date Explanation
 Although the pattern fluctuates, it is apparent that play campaigns with higher goals tend to have a greater percent chance of failing. We can see that there is a subtle decrease among campaign success as the goal amount becomes larger and larger. However, there is an anomaly at about $35,000, in which we see a sharp increase in the success rate and sharp decrease in failure rate.
 
 
