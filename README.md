@@ -8,7 +8,7 @@ The purpose of this project is to is to compare the results of fundraising campa
 # Analysis and Challenges
 Before we are starting the analysis, we can see that the data supported and organized by many ways, including the description, status and goal of the campaign, amount pledged, average amount of donation, category and subcategory and the dates in which the campaigns begin and ended. Analysis achieved and filtered by the theater and play trends.
 
-Now! Let’s start to explain couple of those analysis steps together.
+Now! Let’s start to explain those analysis steps together.
 
 # Analysis of Outcomes Based on Launch Date
 In this section, I created a pivot table that filtered the outcomes by category and the launch date. The columns show us the status of the campaign and the row shows the months during the campaign. This allows us to see the total count of successful, failed, and canceled theater campaigns. Please see picture below for results. 
@@ -25,7 +25,7 @@ When I complete the analysis, I find results for successful, failed, and cancele
 
 
 # Challenges and Difficulties Encountered
-One of the challenges that I encountered was forgetting to include a criteria within the COUNTIFS statement. Originally, I thought that filtering the data by plays would automatically become a criteria for the chart. However, this was not the case. Instead of filtering from the Kickstarter sheet, I had to include it as a criterion within the COUNTIFS statement. This guaranteed that I would retrieved only the play campaigns.
+Most challenges of Kickstarter sheet is a COUNTIFS statement. Filtering the data by plays, it would be automatically becoming a criteria for the chart. Which is this way I guaranteed that I will only receive the play campaigns.
 
 # Results
 Outcomes Based on Launch Date Conclusions
