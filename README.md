@@ -34,10 +34,14 @@ Outcomes Based on Launch Date
 Outcomes Based on Goals Conclusions
 Although the pattern fluctuates, it is apparent that play campaigns with higher goals tend to have a greater percent chance of failing. We can see that there is a subtle decrease among campaign success as the goal amount becomes larger and larger. However, there is an anomaly at about $35,000, in which we see a sharp increase in the success rate and sharp decrease in failure rate.
 
-Outcomes Based on Goals
+# Outcomes Based on Goals
 
-Dataset Limitations
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85411967/132782183-2a4a749b-2f8a-4f46-9818-b48e0027db76.png)
+
+
+
+
+
+# Dataset Limitations
 Some of the limitations on the dataset may include incomplete data. Although the data is complete for each campaign that is inputted in our spreadsheet, we may have missing data for campaigns that were never recorded. Additionally, we do have a few outliers within the dataset. Without further analysis, we are currently unable to determine the cause of these outliers.
 
-Other Possible Tables and Graphs
-One graph that would be useful to include for the analysis would be a box-and-whisker plot that compares the outliers by campaign category or months to see if outliers are influenced by other factors within the dataset. A graph that compares the country to the category would also be helpful in determining what types of campaigns are more successful in certain countries for future reference.
