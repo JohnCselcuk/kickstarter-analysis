@@ -7,6 +7,7 @@ The purpose of this project is to is to compare the results of fundraising campa
 
 # Analysis and Challenges
 Before we are starting the analysis, we can see that the data supported and organized by many ways, including the description, status and goal of the campaign, amount pledged, average amount of donation, category and subcategory and the dates in which the campaigns begin and ended. Analysis achieved and filtered by the theater and play trends.
+
 Now! Let’s start to explain couple of those analysis steps together.
 
 # Analysis of Outcomes Based on Launch Date
