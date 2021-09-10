@@ -29,9 +29,12 @@ Results
 Outcomes Based on Launch Date Conclusions
 From the line chart, we can see that the best month to start a theater campaign is in May as it produces the highest amount of successful outcomes. Similarly, we can infer that December would not be the best month to launch a theater campaign, as it has the lowest number of successful outcomes. In fact, the number of successful campaigns is almost equivalent to the number of failed campaigns during the month of December.
 
-Outcomes Based on Launch Date
+# Outcomes Based on Launch Date
 
-Outcomes Based on Goals Conclusions
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85411967/132782481-7fd6a84d-611f-477c-af0a-2632d57b96bb.png)
+
+
+# Outcomes Based on Goals Explanation
 Although the pattern fluctuates, it is apparent that play campaigns with higher goals tend to have a greater percent chance of failing. We can see that there is a subtle decrease among campaign success as the goal amount becomes larger and larger. However, there is an anomaly at about $35,000, in which we see a sharp increase in the success rate and sharp decrease in failure rate.
 
 
@@ -47,5 +50,5 @@ Although the pattern fluctuates, it is apparent that play campaigns with higher 
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85411967/132782183-2a4a749b-2f8a-4f46-9818-b48e0027db76.png)
 
-# Explanation
+# Outcomes Based on Goals Explanation
 Some of the limitations on the dataset may include incomplete data. Although the data is complete for each campaign that is inputted in our spreadsheet, we may have missing data for campaigns that were never recorded. Additionally, we do have a few outliers within the dataset. Without further analysis, we are currently unable to determine the cause of these outliers.
