@@ -19,7 +19,7 @@ In this section, I created a pivot table that filtered the outcomes by category 
 # Analysis of Outcomes Based on Goals
 To analyze the Outcomes Based on Goals, in this section I created a table that received the total number of campaigns based on filters. I used Countifs function to get correct numbers. Wit this function I have filtered campaign goal, category and subcategory and the outcomes.
 
-When I complete the analysis, I find results for successful, failed, and canceled campaigns goals for each colomns. Please see picture below;
+When I complete the analysis, I find results for successful, failed, and canceled campaigns goals for each colomns. Please see picture below for details;
 
 ![Outcomes Based on Goals](https://user-images.githubusercontent.com/85411967/132790342-8a1a7221-a23f-4cd1-a200-f74687b9097b.png)
 
