@@ -10,13 +10,13 @@ Before we are starting the analysis, we can see that the data supported and orga
 
 Now! Let’s start to explain those analysis steps together.
 
-# Analysis of Outcomes Based on Launch Date
+# Outcomes Based on Launch Date Analysis
 In this section, I created a pivot table that filtered the outcomes by category and the launch date. The columns show us the status of the campaign and the row shows the months during the campaign. This allows us to see the total count of successful, failed, and canceled theater campaigns. Please see picture below for results. 
 
 ![Pivot Table](https://user-images.githubusercontent.com/85411967/132788696-633e2bbe-3067-4d64-a12b-8a0af79e785c.png)
 
 
-# Analysis of Outcomes Based on Goals
+# Outcomes Based on Goals Analysis
 To analyze the Outcomes Based on Goals, in this section I created a table that received the total number of campaigns based on filters. I used Countifs function to get correct numbers. Wit this function I have filtered campaign goal, category and subcategory and the outcomes.
 
 When I complete the analysis, I find results for successful, failed, and canceled campaigns goals for each colomns. Please see picture below for details;
