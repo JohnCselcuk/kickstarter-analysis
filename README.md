@@ -25,7 +25,7 @@ When I complete the analysis, I find results for successful, failed, and cancele
 
 
 # Challenges and Difficulties Encountered
-Most challenges of Kickstarter sheet is a COUNTIFS statement. Filtering the data by plays, it would be automatically becoming a criteria for the chart. Which is this way I guaranteed that I will only receive the play campaigns.
+Most challenges of Kickstarter sheet is a COUNTIFS statement. Filtering the data by plays, it would be automatically becoming a criteria for the chart. Which is this way I guaranteed that I will only receive the play campaigns results.
 
 # Results
 Outcomes Based on Launch Date Conclusions
