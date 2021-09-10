@@ -3,13 +3,17 @@
 # Overview of Project
  
 # Purpose
-The purpose of this project is to is to compare the results of fundraising campaigns based on their launch dates and their funding goals. We specifically looked at the trends of theaters and plays to determine the successful, failed, and cancelled campaigns.
+The purpose of this project is to is to compare the results of fundraising campaigns based on their Outcomes, Launch Date and Statistics. We specifically worked on number of successful, canceled numbers and total projects.
 
 # Analysis and Challenges
-Before diving into the analysis, we can see that the data provided is organized by many different aspects, including the description, status and goal of the campaign, amount pledged, average amount of donation, category and subcategory type, and the dates in which the campaigns began and ended. As mentioned earlier, much of the analysis performed was achieved by filtering the data and looking at simply the theater and play trends.
+Before we are starting the analysis, we can see that the data supported and organized by many ways, including the description, status and goal of the campaign, amount pledged, average amount of donation, category and subcategory and the dates in which the campaigns begin and ended. Analysis achieved and filtered by the theater and play trends.
+Now! Let’s start to explain couple of those analysis steps together.
 
 # Analysis of Outcomes Based on Launch Date
-For the Outcomes Based on Launch Date, I created a pivot table that filtered the outcomes by category and the launch date. The columns display the status of the campaign, while the row shows the months during the campaign. This allows us to see the total count of successful, failed, and canceled theater campaigns. Below is an image of the pivot table with a filter for the theater category.
+In this section, I created a pivot table that filtered the outcomes by category and the launch date. The columns show us the status of the campaign and the row shows the months during the campaign. This allows us to see the total count of successful, failed, and canceled theater campaigns. Please see picture below for results. 
+
+![Pivot Table](https://user-images.githubusercontent.com/85411967/132788696-633e2bbe-3067-4d64-a12b-8a0af79e785c.png)
+
 
 # Analysis of Outcomes Based on Goals
 To analyze the Outcomes Based on Goals, I created a table that retrieved the total number of campaigns based off of certain criteria. In order to retrieve the correct count, the COUNTIFS statement was used. Within this formula, I set multiple criteria, including a range for the desired campaign goal, the specific category, and the outcomes of these campaigns. In this case, we wanted to look at the subcategory, plays.
