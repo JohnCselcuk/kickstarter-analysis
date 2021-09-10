@@ -25,11 +25,11 @@ When I complete the analysis, I find results for successful, failed, and cancele
 
 
 # Challenges and Difficulties Encountered
-Most challenges of Kickstarter sheet is a COUNTIFS statement. Filtering the data by plays, it would be automatically becoming a criteria for the chart. Which is this way I guaranteed that I will only receive the play campaigns results.
+Most challenges of Kickstarter sheet is a COUNTIFS statement. Filtering the data by plays, it would be automatically becoming a criteria for the chart. Which is this way I guaranteed that I will only receive the play campaigns conclusion.
 
 # Results
 Outcomes Based on Launch Date Conclusions
-From the line chart, we can see that the best month to start a theater campaign is in May as it produces the highest amount of successful outcomes. Similarly, we can infer that December would not be the best month to launch a theater campaign, as it has the lowest number of successful outcomes. In fact, the number of successful campaigns is almost equivalent to the number of failed campaigns during the month of December.
+The line chart picture as shown, we can tell May is the best month to start a theater campaign will be highest amount of successful outcomes.  We can say December is not the best month to lunch a theater campaign, in this direction we can see results are lowest number of successful outcomes.  In month of December, successful and failed campaigns are almost equal. 
 
 # Outcomes Based on Launch Date
 
