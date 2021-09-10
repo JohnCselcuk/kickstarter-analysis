@@ -37,7 +37,7 @@ The line chart picture as shown, we can tell May is the best month to start a th
 
 
 # Outcomes Based on Launch Date Explanation
-So far, play campaigns with higher goals tend to have a greater percent chance of failing. We are able to see now when decrease among campaign success as the goal amount becomes bigger and bigger.  However, there is an approximately at about $36,000 increase in the success rate and sharp decrease in failure rate.
+So far, play campaigns with higher goals tend to have a greater percent chance of failing. We are able to see now when decrease among campaign success as the goal amount becomes bigger and bigger.  However, there is an approximately at about $36,000 increase in the success rate and sharp decrease in failure rate. See picture below.
 
 
 # Outcomes Based on Goals
