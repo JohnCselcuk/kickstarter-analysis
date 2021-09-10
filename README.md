@@ -21,14 +21,6 @@ One of the challenges that I encountered was forgetting to include a criteria wi
 Outcomes Based on Launch Date Conclusions
 From the line chart, we can see that the best month to start a theater campaign is in May as it produces the highest amount of successful outcomes. Similarly, we can infer that December would not be the best month to launch a theater campaign, as it has the lowest number of successful outcomes. In fact, the number of successful campaigns is almost equivalent to the number of failed campaigns during the month of December.
 
-# Theater Outcomes Pivot Table
-
-
-
-
-
-
-
 # Outcomes Based on Launch Date
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85411967/132782481-7fd6a84d-611f-477c-af0a-2632d57b96bb.png)
