@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# Kickstarter-Analysis
 
 # Overview of Project
  
