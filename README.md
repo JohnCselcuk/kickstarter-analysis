@@ -17,7 +17,12 @@ In this section, I created a pivot table that filtered the outcomes by category 
 
 
 # Analysis of Outcomes Based on Goals
-To analyze the Outcomes Based on Goals, I created a table that retrieved the total number of campaigns based off of certain criteria. In order to retrieve the correct count, the COUNTIFS statement was used. Within this formula, I set multiple criteria, including a range for the desired campaign goal, the specific category, and the outcomes of these campaigns. In this case, we wanted to look at the subcategory, plays.
+To analyze the Outcomes Based on Goals, in this section I created a table that received the total number of campaigns based on filters. I used Countifs function to get correct numbers. Wit this function I have filtered campaign goal, category and subcategory and the outcomes.
+
+When I complete the analysis, I find results for successful, failed, and canceled campaigns goals for each colomns. Please see picture below;
+
+![Outcomes Based on Goals](https://user-images.githubusercontent.com/85411967/132790342-8a1a7221-a23f-4cd1-a200-f74687b9097b.png)
+
 
 # Challenges and Difficulties Encountered
 One of the challenges that I encountered was forgetting to include a criteria within the COUNTIFS statement. Originally, I thought that filtering the data by plays would automatically become a criteria for the chart. However, this was not the case. Instead of filtering from the Kickstarter sheet, I had to include it as a criterion within the COUNTIFS statement. This guaranteed that I would retrieved only the play campaigns.
